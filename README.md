@@ -6,4 +6,4 @@ This also allows you to view the deails of the fee based on the category student
 
 # Execute
 Add the projext-1.cpp to a project using any C++ IDE. This project originally ran on DEV-CPP and Code Blocks.<br>
-The exe file of this project is given in the repository
+
